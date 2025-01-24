@@ -139,3 +139,9 @@ Feel free to fork the repository, open issues, or submit pull requests if you’
 ProxyCon is licensed under the [MIT License](LICENSE).
 
 ---
+
+## Credits
+
+- **MihaZupan.HttpToSocks5Proxy**: This project uses [MihaZupan.HttpToSocks5Proxy](https://github.com/MihaZupan/HttpToSocks5Proxy) for SOCKS5 and SOCKS4 proxy support. Special thanks to Miha Zupan for this excellent library!
+  
+---
