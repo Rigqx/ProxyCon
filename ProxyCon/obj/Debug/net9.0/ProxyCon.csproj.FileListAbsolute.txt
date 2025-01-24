@@ -1,0 +1,17 @@
+E:\Udvikling\C\ProxyCon\ProxyCon\bin\Debug\net9.0\ProxyCon.exe
+E:\Udvikling\C\ProxyCon\ProxyCon\bin\Debug\net9.0\ProxyCon.deps.json
+E:\Udvikling\C\ProxyCon\ProxyCon\bin\Debug\net9.0\ProxyCon.runtimeconfig.json
+E:\Udvikling\C\ProxyCon\ProxyCon\bin\Debug\net9.0\ProxyCon.dll
+E:\Udvikling\C\ProxyCon\ProxyCon\bin\Debug\net9.0\ProxyCon.pdb
+E:\Udvikling\C\ProxyCon\ProxyCon\bin\Debug\net9.0\MihaZupan.HttpToSocks5Proxy.dll
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.csproj.AssemblyReference.cache
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.AssemblyInfoInputs.cache
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.AssemblyInfo.cs
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.csproj.CoreCompileInputs.cache
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.csproj.Up2Date
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.dll
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\refint\ProxyCon.dll
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.pdb
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ProxyCon.genruntimeconfig.cache
+E:\Udvikling\C\ProxyCon\ProxyCon\obj\Debug\net9.0\ref\ProxyCon.dll

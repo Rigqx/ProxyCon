@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProxyCon</id>
+    <version>1.0.0</version>
+    <authors>ProxyCon</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="HttpToSocks5Proxy" version="1.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Udvikling\C\ProxyCon\ProxyCon\bin\Release\net9.0\ProxyCon.runtimeconfig.json" target="lib\net9.0\ProxyCon.runtimeconfig.json" />
+    <file src="E:\Udvikling\C\ProxyCon\ProxyCon\bin\Release\net9.0\ProxyCon.dll" target="lib\net9.0\ProxyCon.dll" />
+  </files>
+</package>
